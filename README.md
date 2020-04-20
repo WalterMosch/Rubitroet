@@ -32,3 +32,10 @@ This is very easy. After switching on the player the first song starts automatic
 Behind each button there are five songs available. If you don't press any button.
 The songs will just run through and start again after the last song.
 
+### Improvements I want to do in a time far far away
+1. Some kind of a hidden volume control would be useful. At the moment it's playing at on volume.
+
+2. I was to lazy to generate a playlist while starting up. So I just renamed the audio files to track001.mp3 - track040.mp3.
+
+
+
