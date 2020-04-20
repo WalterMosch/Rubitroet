@@ -14,6 +14,7 @@ I think it's not available anymore. But I think it is not difficult to use a new
 There are a lot of different shields available. You just have to alter the code a little.
 Because of the different libary.
 
+The MP3 files are placed on a sd-card. 
 As supply I used a regular powerbank which I professional assembled! :D
 For charging I just used a 6.3mm Audiojack.
 
@@ -32,8 +33,8 @@ This is very easy. After switching on the player the first song starts automatic
 Behind each button there are five songs available. If you don't press any button.
 The songs will just run through and start again after the last song.
 
-### Improvements I want to do in a time far far away
-1. Some kind of a hidden volume control would be useful. At the moment it's playing at on volume.
+### Improvements I want to do in a time far far away from now
+1. Some kind of a hidden volume control would be useful. At the moment it's just playing at one volume.
 
 2. I was to lazy to generate a playlist while starting up. So I just renamed the audio files to track001.mp3 - track040.mp3.
 
