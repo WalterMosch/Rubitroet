@@ -18,3 +18,8 @@ As supply I used a regular powerbank which I professional assembled! :D
 For charging I just used a 6.3mm Audiojack.
 
 ![alt_text](https://github.com/WalterMosch/Rubitroet/blob/master/IMG_20200413_162305.jpg)
+
+This is the sophisticated charging cable.
+
+![alt_text](https://github.com/WalterMosch/Rubitroet/blob/master/IMG_20200413_164356.jpg)
+
