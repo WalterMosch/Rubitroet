@@ -12,7 +12,7 @@ https://de.elv.com/audioshield-asa1-for-arduino-203648
 
 I think it's not available anymore. But I think it is not difficult to use a newer one.
 There are a lot of different shields available. You just have to alter the code a little.
-Because of the different libary.
+Because of the different library.
 
 The MP3 files are placed on a sd-card. 
 As supply I used a regular powerbank which I professional assembled! :D
