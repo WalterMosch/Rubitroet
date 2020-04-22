@@ -1,5 +1,5 @@
 # Rubitroet
-MP3 player for kids with an Arduino UNO an ASA1 mp3 shield
+MP3 player for kids with an Arduino UNO and ASA1 mp3 shield
 
 ![alt text](https://github.com/WalterMosch/Rubitroet/blob/master/IMG_20200413_162019.jpg)
 
